@@ -6,9 +6,9 @@ Most of what I do lives in that gap — the distance between what an AI system r
 
 I got there sideways. I started out as an electrical engineer, where the real job, underneath every project, was the same: find the signal buried in the noise, and don't trust the clean-looking number until you know what it's hiding. Denoising a biomedical recording taught me that instinct before I ever touched a neural network.
 
-Then came a run of research assistant roles that had nothing obvious in common — binary neural networks on histopathology slides, autonomous robots in simulation, forecasting COVID from wastewater. Somewhere in the middle of them I noticed I cared less about *building* the model and more about cross-examining it. Where does it break? Which failures is the headline metric quietly hiding? When it hands me an explanation, is that explanation faithful, or just plausible?
+Then came a run of research assistant roles that had nothing obvious in common — binary neural networks on histopathology slides, autonomous robots in simulation, forecasting COVID from wastewater. Somewhere in the middle of them I noticed the part I couldn't put down wasn't just *building* the model — it was cross-examining it. Where does it break? Which failures is the headline metric quietly hiding? When it hands me an explanation, is that explanation faithful, or just plausible?
 
-That question is the through-line. Today I work on **AI evaluation, model quality, and data quality** — the load-bearing, unglamorous part of ML where rigor either exists or it doesn't.
+That question is the through-line. It shapes how I work as a **data scientist and ML engineer**: I'm pulled toward the load-bearing parts of the job — **building models, evaluating them honestly, and keeping the data underneath them clean** — the unglamorous part where rigor either exists or it doesn't.
 
 ### 🔍 What that looks like in practice
 
@@ -25,7 +25,7 @@ Python (PyTorch, scikit-learn, pandas, NumPy), SQL, MATLAB, C++. Comfortable acr
 
 ### 🚀 Currently
 
-Open to **AI evaluation, model quality, and data quality** roles — Toronto or remote, authorized to work in Canada. If your team cares whether the model is *actually* right, not just whether the demo runs, we'll get along!
+Open to **data science, ML engineering, AI evaluation, and data-quality** roles — Toronto or remote, authorized to work in Canada. If your team cares whether the model is *actually* right, not just whether the demo runs, we'll get along!
 
 ### 🎨 Off the clock
 
