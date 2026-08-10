@@ -13,11 +13,12 @@ That question is the through-line. It shapes how I work as a **data scientist an
 ### 🔍 What that looks like in practice
 
 - **[faithful-fault-xai](https://github.com/NiliRahmani/faithful-fault-xai)** — when an AI explains a fault, does it point to the true cause? With injected ground truth and honest baselines, I found something I didn't expect: the *more robust* the model, the *less* trustworthy its explanation.
+- **[FoldGate](https://github.com/NiliRahmani/FoldGate)** — a curation gate for protein structure datasets. Auditing 300 PDB entries that had *already* passed the usual filter turned up two things worth knowing: 40% of a random test split has a near-relative sitting in the training set, and 58% of chains are missing residues the deposited sequence says are there.
 - **[SensorSentinel](https://github.com/NiliRahmani/SensorSentinel)** — anomaly detection where the hard part isn't the model, it's refusing to cheat. Leak-free thresholds and event-aware metrics, because a well-known shortcut lets a *random* detector beat the state of the art on the usual benchmark.
 - **[Scispot_LabBridge](https://github.com/NiliRahmani/Scispot_LabBridge)** — turns messy instrument exports into clean, QC-checked, fully audited data. Clean data is necessary; *validated* data is what's actually safe to model on.
 - **[PrintTrace-CV](https://github.com/NiliRahmani/PrintTrace-CV)** and **[MicroPlasticVision](https://github.com/NiliRahmani/MicroPlasticVision)** — computer vision plus a signal-processing eye, turned into reproducible measurements instead of "it looks better."
 
-Different domains, same project every time: don't trust the number until you've tried to break it.
+Different domains, same project every time: don't trust the number until you've tried to break it. Most of it is scientific data, too — histopathology, wastewater, microscopy, lab instrument exports, protein structures — which is its own kind of hard, because the mess is physical and the ground truth is expensive.
 
 ### Tools I actually reach for
 
@@ -25,7 +26,7 @@ Python (PyTorch, scikit-learn, pandas, NumPy), SQL, MATLAB, C++. Comfortable acr
 
 ### 🚀 Currently
 
-Open to **data science, ML engineering, AI evaluation, and data-quality** roles — Toronto or remote, authorized to work in Canada. If your team cares whether the model is *actually* right, not just whether the demo runs, we'll get along!
+Open to **full-time data science, ML engineering, AI evaluation, and data-quality** roles — Toronto or remote, authorized to work in Canada. If your team cares whether the model is *actually* right, not just whether the demo runs, we'll get along!
 
 ### 🎨 Off the clock
 
